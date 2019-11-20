@@ -1,0 +1,27 @@
+Added Component: Designator=LCD1(EA DOGM132-5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=LCD1-1
+Added Pin To Net: NetName=NetLCD1_2 Pin=LCD1-2
+Added Pin To Net: NetName=NetLCD1_19 Pin=LCD1-19
+Added Pin To Net: NetName=3V3 Pin=LCD1-20
+Added Pin To Net: NetName=NetC8_2 Pin=LCD1-21
+Added Pin To Net: NetName=NetC7_2 Pin=LCD1-22
+Added Pin To Net: NetName=NetC5_2 Pin=LCD1-23
+Added Pin To Net: NetName=NetC4_2 Pin=LCD1-24
+Added Pin To Net: NetName=NetC2_2 Pin=LCD1-25
+Added Pin To Net: NetName=GND Pin=LCD1-26
+Added Pin To Net: NetName=NetC6_2 Pin=LCD1-27
+Added Pin To Net: NetName=NetC6_1 Pin=LCD1-28
+Added Pin To Net: NetName=NetC3_2 Pin=LCD1-29
+Added Pin To Net: NetName=NetC3_1 Pin=LCD1-30
+Added Pin To Net: NetName=NetC1_2 Pin=LCD1-31
+Added Pin To Net: NetName=NetC1_2 Pin=LCD1-32
+Added Pin To Net: NetName=GND Pin=LCD1-33
+Added Pin To Net: NetName=VCC Pin=LCD1-34
+Added Pin To Net: NetName=VCC Pin=LCD1-35
+Added Pin To Net: NetName=MOSI Pin=LCD1-36
+Added Pin To Net: NetName=SCLK Pin=LCD1-37
+Added Pin To Net: NetName=LCD_A0 Pin=LCD1-38
+Added Pin To Net: NetName=LCD_RST Pin=LCD1-39
+Added Pin To Net: NetName=LCD_CS Pin=LCD1-40
+Added Member To Class: ClassName=Sheet1 Member=Component LCD1 EA DOGM132
