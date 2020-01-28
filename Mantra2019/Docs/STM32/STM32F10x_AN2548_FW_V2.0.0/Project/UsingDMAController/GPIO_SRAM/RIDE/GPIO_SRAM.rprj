@@ -1,0 +1,4 @@
+
+<Project Header="Project 'GPIO_SRAM'" Path=".\GPIO_SRAM.rprj" Project="Yes" OutputFile="" sate="96" ActiveApp="GPIO_SRAM" >
+	<ApplicationBuild Header="GPIO_SRAM" Extern=".\GPIO_SRAM.rapp" Path=".\GPIO_SRAM.rapp" OutputFile=".\STM3210B-EVAL\GPIO_SRAM.elf" sate="96" Config="STM3210B-EVAL" />
+</Project>

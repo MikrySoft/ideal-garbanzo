@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=WALLGT Pin=Q1-2
+Removed Pin From Net: NetName=USBGT Pin=Q3-2
+Removed Pin From Net: NetName=WALLGT Pin=R43-1
+Removed Pin From Net: NetName=USBGT Pin=R48-1
+Removed Pin From Net: NetName=VBUS Pin=T2-1
+Removed Pin From Net: NetName=NetR49_1 Pin=T2-2
+Removed Pin From Net: NetName=VBUS Pin=T2-3
+Removed Pin From Net: NetName=NetR49_1 Pin=T2-4
+Removed Pin From Net: NetName=VBUS Pin=T2-5
+Removed Pin From Net: NetName=NetQ3_4 Pin=T2-6
+Added Component: Designator=T2(SOT65P210X110-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "SOT363"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "10.07.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BC847BS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\BC847BS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "10.07.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP SEMICONDUCTORS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BC847BS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SOT363, SC-88, SOT, 0.65mm Pitch, 6 pin, 1.25mm W X 2.00mm L X 1.10mm H, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "45V 100mA Dual NPN General-Purpose Transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BC847BS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USBGT Pin=Q1-2
+Added Pin To Net: NetName=WALLGT Pin=Q3-2
+Added Pin To Net: NetName=USBGT Pin=R43-1
+Added Pin To Net: NetName=WALLGT Pin=R48-1
+Added Pin To Net: NetName=NetR49_1 Pin=T2-1
+Added Pin To Net: NetName=VBUS Pin=T2-1
+Added Pin To Net: NetName=NetR49_1 Pin=T2-2
+Added Pin To Net: NetName=VBUS Pin=T2-2
+Added Pin To Net: NetName=NetQ3_4 Pin=T2-6
+Added Pin To Net: NetName=VBUS Pin=T2-6
+Added Member To Class: ClassName=U_[01] Power Member=Component T2 BC847BS

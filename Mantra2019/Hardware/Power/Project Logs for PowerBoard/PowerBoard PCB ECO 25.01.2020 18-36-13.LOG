@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=USB_CON_N Pin=D2-2
+Removed Pin From Net: NetName=USB_CON_P Pin=D2-3
+Removed Pin From Net: NetName=USB_CON_P Pin=IC3-2
+Removed Pin From Net: NetName=USB_CON_N Pin=IC3-3
+Removed Member From Class: ClassName=U_[01] Power Member=D2
+Added Pin To Net: NetName=USB_CON_N Pin=IC3-1
+Added Pin To Net: NetName=USB_CON_P Pin=IC3-3

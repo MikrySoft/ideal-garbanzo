@@ -1,0 +1,4 @@
+
+<Project Header="Project 'ADC_SRAM'" Path=".\ADC_SRAM.rprj" Project="Yes" OutputFile="" sate="96" ActiveApp="ADC_SRAM" >
+	<ApplicationBuild Header="ADC_SRAM" Extern=".\ADC_SRAM.rapp" Path=".\ADC_SRAM.rapp" OutputFile=".\STM3210B-EVAL\ADC_SRAM.elf" sate="96" Config="STM3210B-EVAL" />
+</Project>

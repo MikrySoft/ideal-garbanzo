@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=USB_CON_N Pin=IC3-1
+Removed Pin From Net: NetName=USB_CON_P Pin=IC3-3
+Added Pin To Net: NetName=USB_CON_P Pin=IC3-1
+Added Pin To Net: NetName=USB_CON_N Pin=IC3-2
+Added Room: Name=U_[01] Power

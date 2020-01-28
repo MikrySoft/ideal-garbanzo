@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetR49_1 Pin=T2-1
+Removed Pin From Net: NetName=VBUS Pin=T2-2
+Removed Pin From Net: NetName=NetQ3_4 Pin=T2-3
+Removed Pin From Net: NetName=VBUS Pin=T2-4
+Removed Pin From Net: NetName=NetR49_1 Pin=T2-5
+Removed Pin From Net: NetName=VBUS Pin=T2-6
+Added Pin To Net: NetName=VBUS Pin=T2-1
+Added Pin To Net: NetName=NetR49_1 Pin=T2-2
+Added Pin To Net: NetName=VBUS Pin=T2-3
+Added Pin To Net: NetName=NetR49_1 Pin=T2-4
+Added Pin To Net: NetName=VBUS Pin=T2-5
+Added Pin To Net: NetName=NetQ3_4 Pin=T2-6

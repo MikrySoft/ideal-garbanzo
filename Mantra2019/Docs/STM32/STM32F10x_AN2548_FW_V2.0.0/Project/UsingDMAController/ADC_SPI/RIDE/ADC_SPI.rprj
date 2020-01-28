@@ -1,0 +1,4 @@
+
+<Project Header="Project 'ADC_SPI'" Path=".\ADC_SPI.rprj" Project="Yes" OutputFile="" sate="96" ActiveApp="ADC_SPI" >
+	<ApplicationBuild Header="ADC_SPI" Extern=".\ADC_SPI.rapp" Path=".\ADC_SPI.rapp" OutputFile=".\STM3210B-EVAL\ADC_SPI.elf" sate="96" Config="STM3210B-EVAL" />
+</Project>

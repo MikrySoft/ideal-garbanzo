@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VIN Pin=Q3-1
+Removed Pin From Net: NetName=USBGT Pin=Q3-2
+Removed Pin From Net: NetName=VBUS Pin=Q3-3
+Removed Pin From Net: NetName=NetQ3_4 Pin=Q3-4
+Added Pin To Net: NetName=VBUS Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3-2
+Added Pin To Net: NetName=VIN Pin=Q3-3
+Added Pin To Net: NetName=USBGT Pin=Q3-4
+Change Net Name : Old Net Name=NetQ3_4 New Net Name=NetQ3_2

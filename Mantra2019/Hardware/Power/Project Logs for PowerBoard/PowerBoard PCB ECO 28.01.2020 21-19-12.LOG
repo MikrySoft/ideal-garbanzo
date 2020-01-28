@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=U_[01] Power Member=R54
+Removed Member From Class: ClassName=U_[01] Power Member=R56
+Removed Member From Class: ClassName=U_[01] Power Member=R57
+Removed Member From Class: ClassName=U_[01] Power Member=R59
+Added Member To Class: ClassName=U_[01] Power Member=Component R48 Res3
+Added Member To Class: ClassName=U_[01] Power Member=Component R49 Res3
+Added Member To Class: ClassName=U_[01] Power Member=Component R50 Res3
+Added Member To Class: ClassName=U_[01] Power Member=Component R51 Res3
+Added Member To Class: ClassName=U_[02] CPU Member=Component R52 Res3
+Added Member To Class: ClassName=U_[02] CPU Member=Component R53 Res3
+Added Member To Class: ClassName=U_[02] CPU Member=Component R55 Res3
+Added Member To Class: ClassName=U_[02] CPU Member=Component R58 Res3
+Added Member To Class: ClassName=U_[02] CPU Member=Component R60 Res3
+Added Member To Class: ClassName=U_[02] CPU Member=Component R61 Res3
