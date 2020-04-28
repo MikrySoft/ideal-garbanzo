@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=EXT Old Footprint=HDR1X2 New Footprint=MOLEX_22-05-7028
+Change Component Footprint: Designator=RTC Old Footprint=HDR1X2 New Footprint=MOLEX_22-05-7028
+Added Component: Designator=J?(MOLEX_22-05-7028)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "5.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "24.01.2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "KK®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\MOLEX_22-05-7028.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "24.01.2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "22-05-7028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "2.54mm (.100") Pitch KK® Wire-To-Board Header, Right Angle, With Friction Lock, 2 Circuits"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MOLEX_22-05-7028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_[01] Power Member=Component J? KK®
+Added Member To Class: ClassName=U_[01] Power Member=Component R? Res3

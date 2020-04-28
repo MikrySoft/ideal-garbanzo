@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VDC Pin=Q1-3
+Removed Pin From Net: NetName=VBUS Pin=Q3-3
+Removed Pin From Net: NetName=VDC Pin=T1-2
+Removed Pin From Net: NetName=VDC Pin=T1-4
+Removed Pin From Net: NetName=VDC Pin=T1-6
+Removed Pin From Net: NetName=VBUS Pin=T2-2
+Removed Pin From Net: NetName=VBUS Pin=T2-4
+Removed Pin From Net: NetName=VBUS Pin=T2-6
+Added Pin To Net: NetName=VBUS Pin=Q1-3
+Added Pin To Net: NetName=VDC Pin=Q3-3
+Added Pin To Net: NetName=VBUS Pin=T1-2
+Added Pin To Net: NetName=VBUS Pin=T1-4
+Added Pin To Net: NetName=VBUS Pin=T1-6
+Added Pin To Net: NetName=VDC Pin=T2-2
+Added Pin To Net: NetName=VDC Pin=T2-4
+Added Pin To Net: NetName=VDC Pin=T2-6
+Added Room: Name=U_[01] Power

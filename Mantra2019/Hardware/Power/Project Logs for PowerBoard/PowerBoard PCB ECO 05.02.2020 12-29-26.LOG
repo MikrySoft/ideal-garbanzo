@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NRST Pin=P2-3
+Removed Pin From Net: NetName=BOOT0 Pin=P2-4
+Removed Pin From Net: NetName=UART1_RX Pin=P2-5
+Removed Pin From Net: NetName=UART1_TX Pin=P2-6
+Removed Pin From Net: NetName=SYS_SWDIO Pin=P2-7
+Removed Pin From Net: NetName=SYS_SWCLK Pin=P2-8
+Added Pin To Net: NetName=SYS_SWDIO Pin=P2-3
+Added Pin To Net: NetName=SYS_SWCLK Pin=P2-4
+Added Pin To Net: NetName=UART1_TX Pin=P2-5
+Added Pin To Net: NetName=UART1_RX Pin=P2-6
+Added Pin To Net: NetName=NRST Pin=P2-7
+Added Pin To Net: NetName=BOOT0 Pin=P2-8
+Added Member To Class: ClassName=U_[01] Power Member=Component C2 Cap Semi
+Added Member To Class: ClassName=U_[01] Power Member=Component C3 Cap Semi
+Added Member To Class: ClassName=U_[01] Power Member=Component C4 Cap Semi

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CHG_SCL Pin=P1-16
+Removed Pin From Net: NetName=CHG_SDA Pin=P1-18
+Removed Pin From Net: NetName=CHG_SDA Pin=R12-1
+Removed Pin From Net: NetName=BAT_SDA Pin=R12-2
+Removed Pin From Net: NetName=CHG_SCL Pin=R13-1
+Removed Pin From Net: NetName=BAT_SCL Pin=R13-2
+Removed Member From Class: ClassName=[00] Block Diagram Member=R?
+Added Pin To Net: NetName=BAT_SCL Pin=P1-16
+Added Pin To Net: NetName=BAT_SDA Pin=P1-18
+Added Pin To Net: NetName=BAT_SDA Pin=R12-1
+Added Pin To Net: NetName=CHG_SDA Pin=R12-2
+Added Pin To Net: NetName=BAT_SCL Pin=R13-1
+Added Pin To Net: NetName=CHG_SCL Pin=R13-2
+Added Member To Class: ClassName=[00] Block Diagram Member=Component R12 Res3
+Added Member To Class: ClassName=[00] Block Diagram Member=Component R13 Res3
+Added Member To Class: ClassName=U_[01] Power Member=Component R? Res3

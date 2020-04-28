@@ -1,0 +1,9 @@
+Output: Save As/Export PCB
+Type  : Universal Exporter
+From  : PCB Document [PowerBoardv2.PcbDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 12:08:55 On 04.03.2020

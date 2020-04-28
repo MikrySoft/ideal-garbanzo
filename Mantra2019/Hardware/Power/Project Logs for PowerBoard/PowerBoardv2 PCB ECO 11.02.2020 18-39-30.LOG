@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SW_OPEN Pin=U2-4
+Removed Pin From Net: NetName=GOOD_BAT Pin=U2-5
+Removed Pin From Net: NetName=CHG_AL Pin=U2-6
+Removed Pin From Net: NetName=CHG_DET Pin=U2-7
+Added Pin To Net: NetName=GOOD_BAT Pin=U2-4
+Added Pin To Net: NetName=SW_OPEN Pin=U2-5
+Added Pin To Net: NetName=CHG_DET Pin=U2-6
+Added Pin To Net: NetName=CHG_AL Pin=U2-7
+Added Member To Class: ClassName=[001] USB Member=Component D1 BAT54

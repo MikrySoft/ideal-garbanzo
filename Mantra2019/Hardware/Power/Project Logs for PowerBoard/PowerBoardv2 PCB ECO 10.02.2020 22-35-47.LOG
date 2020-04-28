@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VSYS Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Pin To Net: NetName=3V3 Pin=IC2-4
+Added Pin To Net: NetName=3V3 Pin=IC2-5
+Added Pin To Net: NetName=GND Pin=IC2-6
+Added Pin To Net: NetName=NetC11_2 Pin=IC2-7
+Added Pin To Net: NetName=NetIC2_8 Pin=IC2-8
+Added Pin To Net: NetName=GND Pin=IC2-9
+Added Pin To Net: NetName=GND Pin=IC2-10
+Added Pin To Net: NetName=VSYS Pin=IC2-11
+Added Pin To Net: NetName=VSYS Pin=IC2-12
+Added Pin To Net: NetName=NetIC2_1 Pin=L1-1
+Added Pin To Net: NetName=NetIC2_3 Pin=L1-2
+Added Pin To Net: NetName=NetIC2_8 Pin=R17-1
+Added Pin To Net: NetName=3V3 Pin=R17-2
+Added Member To Class: ClassName=[004] Charger Member=Component C8 Cap Semi
+Added Member To Class: ClassName=[004] Charger Member=Component C11 Cap Semi
+Added Member To Class: ClassName=[004] Charger Member=Component IC2 TPS63051RMWR
+Added Member To Class: ClassName=[004] Charger Member=Component L1 12mOhm
+Added Member To Class: ClassName=[004] Charger Member=Component R17 Res3

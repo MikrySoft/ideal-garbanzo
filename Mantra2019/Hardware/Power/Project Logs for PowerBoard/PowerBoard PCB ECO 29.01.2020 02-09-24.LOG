@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=BAT_GND Pin=P1-1
+Removed Pin From Net: NetName=VBAT Pin=P1-3
+Removed Pin From Net: NetName=BAT_NTC Pin=PACK_NTC1-1
+Removed Pin From Net: NetName=GND Pin=PACK_NTC1-2
+Removed Pin From Net: NetName=NetR49_1 Pin=T2-1
+Removed Pin From Net: NetName=VDC Pin=T2-2
+Removed Pin From Net: NetName=NetQ3_4 Pin=T2-3
+Removed Pin From Net: NetName=VDC Pin=T2-4
+Removed Pin From Net: NetName=NetR49_1 Pin=T2-5
+Removed Pin From Net: NetName=VDC Pin=T2-6
+Removed Member From Class: ClassName=U_[01] Power Member=PACK_NTC1
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X3 New Footprint=HDR1X5H
+Change Component Comment : Designator=P1 Old Comment=Header 3 New Comment=Header 5H
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Pin To Net: NetName=BAT_GND Pin=P1-3
+Added Pin To Net: NetName=BAT_NTC Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=VDC Pin=T2-1
+Added Pin To Net: NetName=NetR49_1 Pin=T2-2
+Added Pin To Net: NetName=VDC Pin=T2-3
+Added Pin To Net: NetName=NetR49_1 Pin=T2-4
+Added Pin To Net: NetName=VDC Pin=T2-5
+Added Pin To Net: NetName=NetQ3_4 Pin=T2-6
+Added Room: Name=U_[01] Power

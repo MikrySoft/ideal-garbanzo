@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LSO_IN Pin=C22-2
+Removed Pin From Net: NetName=LSO_OUT Pin=C23-2
+Removed Pin From Net: NetName=LSO_IN Pin=Y1-1
+Removed Pin From Net: NetName=LSO_OUT Pin=Y1-2
+Added Pin To Net: NetName=LSO_OUT Pin=C22-2
+Added Pin To Net: NetName=LSO_IN Pin=C23-2
+Added Pin To Net: NetName=LSO_OUT Pin=Y1-1
+Added Pin To Net: NetName=LSO_IN Pin=Y1-2
+Added Member To Class: ClassName=U_[01] Power Member=Component C2 Cap Semi
+Added Member To Class: ClassName=U_[01] Power Member=Component C3 Cap Semi
+Added Member To Class: ClassName=U_[01] Power Member=Component C4 Cap Semi

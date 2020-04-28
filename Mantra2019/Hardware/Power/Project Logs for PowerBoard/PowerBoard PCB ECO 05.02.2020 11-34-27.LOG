@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=EXT_POWER1 NewDesignator=EXT
+Change Component Designator: OldDesignator=P1 NewDesignator=BAT
+Change Component Designator: OldDesignator=RTC_BAT1 NewDesignator=RTC
+Added Member To Class: ClassName=U_[01] Power Member=Component C2 Cap Semi
+Added Member To Class: ClassName=U_[01] Power Member=Component C3 Cap Semi
+Added Member To Class: ClassName=U_[01] Power Member=Component C4 Cap Semi

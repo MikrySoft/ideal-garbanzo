@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=UART1_TX Pin=P2-5
+Removed Pin From Net: NetName=UART1_RX Pin=P2-6
+Added Pin To Net: NetName=UART1_RX Pin=P2-5
+Added Pin To Net: NetName=UART1_TX Pin=P2-6
+Added Member To Class: ClassName=U_[01] Power Member=Component C2 Cap Semi
+Added Member To Class: ClassName=U_[01] Power Member=Component C3 Cap Semi
+Added Member To Class: ClassName=U_[01] Power Member=Component C4 Cap Semi

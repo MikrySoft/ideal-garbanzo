@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=SW1-0
+Removed Pin From Net: NetName=GND Pin=SW1-0
+Change Component Footprint: Designator=EXT1 Old Footprint=MOLEX-705530001 New Footprint=705550001
+Change Component Footprint: Designator=RTC1 Old Footprint=MOLEX-705530001 New Footprint=705550001
+Added Room: Name=[000] Block Diagram
+Added Room: Name=[001] USB
+Added Room: Name=[002] Battery
+Added Room: Name=[003] Connectors
+Added Room: Name=[004] Charger
